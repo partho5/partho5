@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 ## About Me
 
-Hello! I'm Partho Protim Mondal, a passionate software developer with a strong background in Electrical and Electronic Engineering. Currently pursuing my academic journey at the University of Dhaka.
-
 - 💼 Software Developer
 - 🎓 Electrical and Electronic Engineering, University of Dhaka
 
