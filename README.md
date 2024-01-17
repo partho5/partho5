@@ -76,6 +76,13 @@ This app provides a free alternative to the bKash payment verification API. It e
 # Vocabulary Preparation App
 Feature-rich web application for processing vocabulary data. Developed in Java for Android, available on the Play Store. Paid app, no free version yet. Not much downloads. But all the downloads are paid users. I am afraid that I can't share the source code, because it's my business.
 
+
+# Visualize your users on geographical map
+
+This project is to show your website/channel visitors in (Bangladesh) map. Number of visitors from all the districts will be taken from server. Then in the front end SVG map will be drawn and manupulated using Javascript. require.js and svg-path-properties.js libraries are required. Jquery, Bootstrap are also used.
+[Github repository link](https://github.com/partho5/visitor-map)
+
+
 # Convert any website into android app !
 This is a very simple but useful & valuable project. Any website can be converted into an android app, just by changing a variable value, the url of desired website. [Github repository link](https://github.com/partho5/convert-any-website-into-android-app)
 
@@ -187,6 +194,42 @@ A web-based application designed for university teachers to manage courses, stud
 
 
 
+
+# Education-Based Social Media
+
+An education-focused social media platform developed using the Laravel (PHP) framework, jQuery, and MySQL database. This platform allows users to search for existing communities or create new ones using the name of their institute or department. Users can add members by sharing links similar to Google Classroom. The system notifies all members via email when posts are made.
+
+### Key Features
+
+- **Community Creation:**
+  - Users can search or create communities using the name of their institute or department.
+  - Members can be added by sharing links, similar to Google Classroom.
+
+- **Notification System:**
+  - Members receive email notifications for posts and updates.
+
+- **File Management:**
+  - Members can create directories, upload files, and share file links similar to Google Drive.
+  - A desktop application (written in C#) syncs all files on the user's computer, mirroring files and folders.
+
+- **Teacher/Admin Privileges:**
+  - Teachers can join communities, taking on the role of a teacher/admin with enhanced privileges for community control.
+
+- **Amazon S3 Integration:**
+  - Files are stored in Amazon S3 for efficient and scalable storage.
+
+- **Android App:**
+  - An Android app mirrors files and folders, displaying posts from the website.
+
+- **Course Management System:**
+  - Dedicated course management system for teachers.
+
+- **Question Answer Forum:**
+  - Platform includes a question and answer forum for community interaction.
+
+[Github repository link](https://github.com/partho5/letsOrgan)
+
+
 # Clipboard Manager
 
 A Clipboard Manager written in Python for Linux running PCs. This software runs at startup with the help of bash programming and efficiently saves anything that is copied, allowing users to reuse copied content later. The project utilizes PyQT for GUI building and SQLite for storing data.
@@ -202,6 +245,7 @@ A Clipboard Manager written in Python for Linux running PCs. This software runs 
 - **SQLite Database:** Utilizes SQLite for data storage, ensuring efficient and lightweight management of clipboard data.
 
 [Github repository link](https://github.com/partho5/clipboard-manager)
+
 
 
 # Facebook Fun App - Character Certificate
@@ -249,11 +293,6 @@ The Yoga Practice App is designed to facilitate the practice of six crucial yoga
 The simplest way to get a user's location using their IP address. This application takes an IP address as input and retrieves information such as country, city, region, ISP name (org), geolocation (latitude, longitude), postal code, timezone, response_time, etc. The project demonstrates how to achieve this using PHP, but you can implement it in any language using cURL.
 [Github repository link](https://github.com/partho5/ip-location)
 
-
-# Visualize your users on geographical map
-
-This project is to show your website/channel visitors in (Bangladesh) map. Number of visitors from all the districts will be taken from server. Then in the front end SVG map will be drawn and manupulated using Javascript. require.js and svg-path-properties.js libraries are required. Jquery, Bootstrap are also used.
-[Github repository link](https://github.com/partho5/visitor-map)
 
 
 # Funny sum game
