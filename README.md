@@ -261,6 +261,37 @@ Simple number summing game, but it's funny to play. This project is one of my ea
 [Github repository link](https://github.com/partho5/funny-sum-game)
 
 
+# Send SMS
+Takes a .txt file containing mobile number list and sends sms. It's a bulk sms sender having some customization.
+[Github repository link](https://github.com/partho5/SendSMS)
+
+
+
+# Online News Portal
+
+A fully-fledged online news portal developed in PHP using the Laravel framework. This platform allows administrators to add, edit, and delete news articles, categorized under different categories. Users can explore detailed articles by clicking on headlines, and administrators have the ability to manage news categories. The portal also features a tabbed panel showcasing the most viewed news, and visitors can engage by commenting after registering or logging in.
+
+### Key Features
+
+- **Admin Panel:**
+  - Add, edit, and delete news articles.
+  - Create, edit, and delete news categories.
+
+- **News Categories:**
+  - Categorizes news articles for organized presentation.
+
+- **Detailed Articles:**
+  - Clicking on headlines opens detailed articles in a new tab.
+
+- **Most Viewed News:**
+  - Displays the most viewed news in a tabbed panel.
+
+- **User Interaction:**
+  - Visitors can comment by registering or logging in.
+
+[Github repository link](https://github.com/partho5/news-portal) 
+
+
 
 
 ## Thank You
