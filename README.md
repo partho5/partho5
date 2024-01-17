@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 - 💼 Software Engineer
 - 🎓 Electrical and Electronic Engineering, University of Dhaka
+- 🧰 Java · Spring Boot · ReactJS · MySQL · PostgreSQL · Firebase, NoSQL · PHP · Laravel · HTML, CSS, Bootstrap · Javascript, jQuery · Android · API development & Integration · Linux · Server · C# · Python · IOT ·  ·  ·  ·  ·  ·  · 
 
 
 ## Let's talk about some of my projects
