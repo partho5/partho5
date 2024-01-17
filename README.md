@@ -25,15 +25,15 @@ Here are some ideas to get you started:
 
 ### Google Drive Merge
 
-A web application that virtually merges multiple Gmail accounts into one, providing a seamless user experience. Utilizes Spring Boot, React.js, and PostgreSQL.
+A web application that virtually merges multiple Gmail accounts into one, providing a seamless user experience. Utilizes Spring Boot, React.js, and PostgreSQL. Github repo link will be shared soon.
 
 ### Payment Verification
 
-A free alternative to bKash payment verification API developed in Java and Android.
+A free alternative to bKash payment verification API developed in Java and Android. [Github repository Link](https://github.com/partho5/payment-verification)
 
 ### Vocabulary Preparation App
 
-Feature-rich web application for processing vocabulary data. Developed in Java for Android, available on the Play Store. Paid app, no free version yet.
+Feature-rich web application for processing vocabulary data. Developed in Java for Android, available on the Play Store. Paid app, no free version yet. Not much downloads. But all the downloads are paid users. I am afraid that I can't share the source code, because it's my business.
 
 ## Interests
 
