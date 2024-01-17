@@ -16,20 +16,13 @@ Here are some ideas to get you started:
 -->
 
 
-# Partho Protim
-
 ## About Me
 
 - 💼 Software Developer
 - 🎓 Electrical and Electronic Engineering, University of Dhaka
 
-## Work Experience
 
-- Software industry experience
-- Freelance developer for various clients
-- Running two software services in my own venture
-
-## Projects
+## Let's talk about some projects
 
 ### Google Drive Merge
 
