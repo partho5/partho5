@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-- 💼 Software Developer
+- 💼 Software Engineer
 - 🎓 Electrical and Electronic Engineering, University of Dhaka
 
 
