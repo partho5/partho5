@@ -35,6 +35,18 @@ A free alternative to bKash payment verification API developed in Java and Andro
 
 Feature-rich web application for processing vocabulary data. Developed in Java for Android, available on the Play Store. Paid app, no free version yet. Not much downloads. But all the downloads are paid users. I am afraid that I can't share the source code, because it's my business.
 
+### Convert any website into android app !
+
+This is a very simple but useful & valuable project. Any website can be converted into an android app, just by changing a variable value, the url of desired website. [Github repository Link](https://github.com/partho5/convert-any-website-into-android-app)
+
+### Boolean expression comparetor
+
+Takes two boolean expression of any number of variables. Compares those, and shows weather the expressions are same or not.
+It's helpful when someone reduces a boolean expression and want to be sure that if the reduced form is correct or not. Using this application he can compare those expressions to verify. For example A+A!B+B!C+!AB!C is reduced to A+B!C . [Github repository Link](https://github.com/partho5/boolean-expression-comparetor)
+
+### 
+
+
 ## Interests
 
 - Human psychology
