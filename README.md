@@ -79,7 +79,7 @@ Feature-rich web application for processing vocabulary data. Developed in Java f
 # Convert any website into android app !
 This is a very simple but useful & valuable project. Any website can be converted into an android app, just by changing a variable value, the url of desired website. [Github repository link](https://github.com/partho5/convert-any-website-into-android-app)
 
-Copy code
+
 # Boolean Expression Comparator
 
 Takes two boolean expressions of any number of variables, compares them, and indicates whether the expressions are the same or not. This tool is useful when verifying the reduction of boolean expressions. Users can compare expressions to ensure the correctness of the reduced form.
@@ -105,6 +105,7 @@ Additionally, the tool generates a truth table for any number of variables.
 2. Click on the compare button to initiate the comparison process.
 
 3. Review the output to verify the correctness of the reduction.
+
 [Github repository link](https://github.com/partho5/boolean-expression-comparetor)
 
 
