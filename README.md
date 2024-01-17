@@ -55,7 +55,28 @@ Collects all the headlines from Daily Star, Jugantar, Ittefaq, Kaler Kantho - th
 
 - **Zoom-In and Zoom-Out:** Zoom in and out options available for both X and Y axes, providing a detailed or holistic view of the plotted data.
 
+  [Github repository Link](https://github.com/partho5/line-graph-plotter)
 
+
+# Yoga Practice App
+
+### Overview
+
+The Yoga Practice App is designed to facilitate the practice of six crucial yoga asanas, providing users with guidance through images of each stance along with proper timing. This app aims to enhance the yoga practicing experience by incorporating structured sessions with visual cues and auditory notifications.
+
+## Features
+
+- **Six Crucial Asanas:** The app focuses on guiding users through six fundamental yoga asanas, promoting a holistic approach to yoga practice.
+
+- **Stance Visualization:** Each yoga stance is accompanied by an image, providing users with a visual reference to ensure proper form during practice.
+
+- **Timed Sessions:** The app displays each yoga stance for a specific period, allowing users to focus on the posture and transition between poses seamlessly.
+
+- **Auditory Cues:** A beep tone is played at the end of each stance to notify users to transition to the next pose, creating a rhythmic and meditative experience.
+
+- **Completion Tone:** Upon completing all the asanas in the session, a distinct completion tone is played, signaling the end of the practice.
+
+[Github repository Link]([https://github.com/partho5/line-graph-plotter](https://github.com/partho5/Yoga)
 
 
 ## Interests
