@@ -248,6 +248,43 @@ A Clipboard Manager written in Python for Linux running PCs. This software runs 
 
 
 
+
+# Education-Based Social Media
+
+An education-focused social media platform developed using the Laravel (PHP) framework, jQuery, and MySQL database. This platform allows users to search for existing communities or create new ones using the name of their institute or department. Users can add members by sharing links similar to Google Classroom. The system notifies all members via email when posts are made.
+
+### Key Features
+
+- **Community Creation:**
+  - Users can search or create communities using the name of their institute or department.
+  - Members can be added by sharing links, similar to Google Classroom.
+
+- **Notification System:**
+  - Members receive email notifications for posts and updates.
+
+- **File Management:**
+  - Members can create directories, upload files, and share file links similar to Google Drive.
+  - A desktop application (written in C#) syncs all files on the user's computer, mirroring files and folders.
+
+- **Teacher/Admin Privileges:**
+  - Teachers can join communities, taking on the role of a teacher/admin with enhanced privileges for community control.
+
+- **Amazon S3 Integration:**
+  - Files are stored in Amazon S3 for efficient and scalable storage.
+
+- **Android App:**
+  - An Android app mirrors files and folders, displaying posts from the website.
+
+- **Course Management System:**
+  - Dedicated course management system for teachers.
+
+- **Question Answer Forum:**
+  - Platform includes a question and answer forum for community interaction.
+    
+[Github repository link](https://github.com/partho5/crickbd)
+
+
+
 # Facebook Fun App - Character Certificate
 
 A fun Facebook app that utilizes the Facebook Graph API to retrieve user information such as name, email, date of birth, etc. The app then employs some logic to generate random and humorous results along with the user's profile image, creating a light-hearted and entertaining experience.
