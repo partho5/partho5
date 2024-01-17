@@ -145,7 +145,7 @@ The Yoga Practice App is designed to facilitate the practice of six crucial yoga
 
 - **Completion Tone:** Upon completing all the asanas in the session, a distinct completion tone is played, signaling the end of the practice.
 
-[Github repository link]([https://github.com/partho5/line-graph-plotter](https://github.com/partho5/Yoga)
+[Github repository link](https://github.com/partho5/Yoga)
 
 
 # IP Location
