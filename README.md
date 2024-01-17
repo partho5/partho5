@@ -1,4 +1,4 @@
-### Hi there 👋 This is Partho
+### Hi there 👋 this is Partho
 
 <!--
 **partho5/partho5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🎓 Electrical and Electronic Engineering, University of Dhaka
 
 
-## Let's talk about some projects
+## Let's talk about some of my projects
 
 # Google Drive Merge
 
@@ -148,7 +148,27 @@ The Yoga Practice App is designed to facilitate the practice of six crucial yoga
 [Github repository Link]([https://github.com/partho5/line-graph-plotter](https://github.com/partho5/Yoga)
 
 
-## Interests
+# IP Location
+
+The simplest way to get a user's location using their IP address. This application takes an IP address as input and retrieves information such as country, city, region, ISP name (org), geolocation (latitude, longitude), postal code, timezone, response_time, etc. The project demonstrates how to achieve this using PHP, but you can implement it in any language using cURL.
+[Github repository Link](https://github.com/partho5/ip-location)
+
+
+# Visualize your users on geographical map
+
+This project is to show your website/channel visitors in (Bangladesh) map. Number of visitors from all the districts will be taken from server. Then in the front end SVG map will be drawn and manupulated using Javascript. require.js and svg-path-properties.js libraries are required. Jquery, Bootstrap are also used.
+[Github repository Link](https://github.com/partho5/visitor-map)
+
+
+# Funny sum game
+Simple number summing game, but it's funny to play. This project is one of my earliest works when I was a beginner coder. 
+[Github repository Link](https://github.com/partho5/funny-sum-game)
+
+
+
+
+
+# My Interests
 
 - Human psychology
 - Solving human problems using coding skills
