@@ -37,7 +37,7 @@ If a user possesses 10 Gmail accounts, they have a total of 15 * 10 = 150 GB of 
   
 ### Usage
 
-Describe how users can use the application and any specific instructions for merging accounts.
+You can clone and deploy to your own server. Even it's possible to run it under localhost if you configure. Everything will work, but you can only access from your PC.
 
 ### Technologies Used
 
@@ -46,9 +46,35 @@ Describe how users can use the application and any specific instructions for mer
 - PostgreSQL
 - Google API
 
+Source code will be shared in github soon
+
 
 # Payment Verification
-A free alternative to bKash payment verification API developed in Java and Android. [Github repository Link](https://github.com/partho5/payment-verification)
+
+A free alternative to the bKash payment verification API developed in Java and Android.
+
+### Overview
+
+This app provides a free alternative to the bKash payment verification API. It efficiently verifies payments by reading and parsing bKash payment confirmation SMS messages on the user's phone. The app is designed to work seamlessly with Java code, ensuring prompt processing of payment information.
+
+#### How It Works
+
+1. **SMS Reading:** The app immediately reads bKash payment confirmation SMS messages as soon as they arrive on the user's phone.
+
+2. **SMS Parsing:** The received SMS is parsed to extract key information, including the mobile number, arrival time, and Transaction ID.
+
+3. **Server Communication:** The parsed information is promptly sent to the server for verification. If the internet connection is not already ON, the app activates it.
+
+4. **Swift Verification:** With this streamlined process, payments can be verified within seconds.
+
+### Technologies Used
+
+- Java
+- Android
+- Javascript (for the development of the app's interface)
+- HTML, CSS (for UI design)
+
+[Github repository Link](https://github.com/partho5/payment-verification)
 
 # Vocabulary Preparation App
 Feature-rich web application for processing vocabulary data. Developed in Java for Android, available on the Play Store. Paid app, no free version yet. Not much downloads. But all the downloads are paid users. I am afraid that I can't share the source code, because it's my business.
