@@ -124,7 +124,7 @@ Collects all the headlines from Daily Star, Jugantar, Ittefaq, Kaler Kantho - th
 
 - **Zoom-In and Zoom-Out:** Zoom in and out options available for both X and Y axes, providing a detailed or holistic view of the plotted data.
 
-  [Github repository link](https://github.com/partho5/line-graph-plotter)
+[Github repository link](https://github.com/partho5/line-graph-plotter)
 
 
 # Yoga Practice App
