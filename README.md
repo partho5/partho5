@@ -146,6 +146,63 @@ A database collection for a non-profit organization managing volunteer blood don
 [Github repository link](https://github.com/partho5/line-graph-plotter)
 
 
+
+# Weather forecasting service for farmers
+
+'Enlightened Farmer' is a weather forecasting system designed for village farmers, enabling them to take precautionary steps against forthcoming adverse weather conditions. The system retrieves weather data from the wUnderground API, scraps additional weather data from a website, and then parses and sends weather forecasting messages to registered farmers' mobile numbers using an SMS API.
+
+### Key Features
+
+- **Weather Data Integration:** Utilizes wUnderground API for comprehensive weather data.
+
+- **Web Scraping:** Gathers additional weather data from a website and parses the information.
+
+- **SMS Notifications:** Sends weather forecasting messages to registered farmers' mobile numbers using an SMS API.
+
+[Github repository link](https://github.com/partho5/enlightenedFarmer)
+
+
+# University Course Management
+
+A web-based application designed for university teachers to manage courses, student attendance, and exam marks seamlessly. The system allows teachers to register, create courses, and enables students to register and join courses using a link provided by the teacher. Additionally, there's an Android application for teachers to take attendance, with automatic synchronization of student details between the website and the mobile application.
+
+### Key Features
+
+- **Teacher Registration:** Teachers can register themselves on the platform.
+
+- **Course Creation:** Teachers can create and manage courses.
+
+- **Student Registration:** Students can register and join courses using links provided by teachers.
+
+- **Mobile Attendance Application:** Android application for teachers to take attendance, with automatic syncing of student details.
+
+- **Attendance Calculation:** Automatic calculation of attendance marks at the end of the semester/year.
+
+- **Exam Mark Entry:** Teachers can enter exam marks for students.
+
+- **Printable Marksheet:** Generate a handy and printable marksheet in PDF format, saving time and reducing the hassle for teachers.
+
+[Github repository link](https://github.com/partho5/courseMan)
+
+
+
+# Clipboard Manager
+
+A Clipboard Manager written in Python for Linux running PCs. This software runs at startup with the help of bash programming and efficiently saves anything that is copied, allowing users to reuse copied content later. The project utilizes PyQT for GUI building and SQLite for storing data.
+
+### Key Features
+
+- **Startup Integration:** The software is designed to run at startup using bash programming, ensuring continuous clipboard management.
+
+- **Clipboard History:** Anything copied is saved, creating a history of the clipboard content for later reuse.
+
+- **PyQT GUI:** The Graphical User Interface (GUI) is built using PyQT, providing a user-friendly experience.
+
+- **SQLite Database:** Utilizes SQLite for data storage, ensuring efficient and lightweight management of clipboard data.
+
+[Github repository link](https://github.com/partho5/clipboard-manager)
+
+
 # Facebook Fun App - Character Certificate
 
 A fun Facebook app that utilizes the Facebook Graph API to retrieve user information such as name, email, date of birth, etc. The app then employs some logic to generate random and humorous results along with the user's profile image, creating a light-hearted and entertaining experience.
