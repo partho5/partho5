@@ -65,13 +65,10 @@ This app provides a free alternative to the bKash payment verification API. It e
 
 3. **Server Communication:** The parsed information is promptly sent to the server for verification. If the internet connection is not already ON, the app activates it.
 
-4. **Swift Verification:** With this streamlined process, payments can be verified within seconds.
-
 ### Technologies Used
 
 - Java
-- Android
-- Javascript (for the development of the app's interface)
+- Javascript (for the development of the app's UI)
 - HTML, CSS (for UI design)
 
 [Github repository Link](https://github.com/partho5/payment-verification)
