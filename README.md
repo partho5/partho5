@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 # Google Drive Merge
 
-A web application that virtually merges multiple Gmail accounts into one, providing a seamless user experience.
+A web application that virtually merges multiple google drive accounts into one, providing a seamless user experience.
 
 ### Overview
 
@@ -166,12 +166,6 @@ Simple number summing game, but it's funny to play. This project is one of my ea
 
 
 
-
-
-# My Interests
-
-- Human psychology
-- Solving human problems using coding skills
 
 ## Thank You
 
