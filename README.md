@@ -71,13 +71,13 @@ This app provides a free alternative to the bKash payment verification API. It e
 - Javascript (for the development of the app's UI)
 - HTML, CSS (for UI design)
 
-[Github repository Link](https://github.com/partho5/payment-verification)
+[Github repository link](https://github.com/partho5/payment-verification)
 
 # Vocabulary Preparation App
 Feature-rich web application for processing vocabulary data. Developed in Java for Android, available on the Play Store. Paid app, no free version yet. Not much downloads. But all the downloads are paid users. I am afraid that I can't share the source code, because it's my business.
 
 # Convert any website into android app !
-This is a very simple but useful & valuable project. Any website can be converted into an android app, just by changing a variable value, the url of desired website. [Github repository Link](https://github.com/partho5/convert-any-website-into-android-app)
+This is a very simple but useful & valuable project. Any website can be converted into an android app, just by changing a variable value, the url of desired website. [Github repository link](https://github.com/partho5/convert-any-website-into-android-app)
 
 Copy code
 # Boolean Expression Comparator
@@ -105,11 +105,11 @@ Additionally, the tool generates a truth table for any number of variables.
 2. Click on the compare button to initiate the comparison process.
 
 3. Review the output to verify the correctness of the reduction.
-[Github repository Link](https://github.com/partho5/boolean-expression-comparetor)
+[Github repository link](https://github.com/partho5/boolean-expression-comparetor)
 
 
 # Newspaper headlines crawler
-Collects all the headlines from Daily Star, Jugantar, Ittefaq, Kaler Kantho - these newspapers. A HTML page is created as showing in the screenshot attached below. That page is just a list of headlines. So that user can skim through all the headlines and read only desired news. Reading this way s/he can read all important news of the day from 4 newspapers in significantly less amount of time. [Github repository Link](https://github.com/partho5/newspaper-headlines-crawler)
+Collects all the headlines from Daily Star, Jugantar, Ittefaq, Kaler Kantho - these newspapers. A HTML page is created as showing in the screenshot attached below. That page is just a list of headlines. So that user can skim through all the headlines and read only desired news. Reading this way s/he can read all important news of the day from 4 newspapers in significantly less amount of time. [Github repository link](https://github.com/partho5/newspaper-headlines-crawler)
 
 # 2D graph plotter
 ### Features
@@ -124,7 +124,7 @@ Collects all the headlines from Daily Star, Jugantar, Ittefaq, Kaler Kantho - th
 
 - **Zoom-In and Zoom-Out:** Zoom in and out options available for both X and Y axes, providing a detailed or holistic view of the plotted data.
 
-  [Github repository Link](https://github.com/partho5/line-graph-plotter)
+  [Github repository link](https://github.com/partho5/line-graph-plotter)
 
 
 # Yoga Practice App
@@ -145,24 +145,24 @@ The Yoga Practice App is designed to facilitate the practice of six crucial yoga
 
 - **Completion Tone:** Upon completing all the asanas in the session, a distinct completion tone is played, signaling the end of the practice.
 
-[Github repository Link]([https://github.com/partho5/line-graph-plotter](https://github.com/partho5/Yoga)
+[Github repository link]([https://github.com/partho5/line-graph-plotter](https://github.com/partho5/Yoga)
 
 
 # IP Location
 
 The simplest way to get a user's location using their IP address. This application takes an IP address as input and retrieves information such as country, city, region, ISP name (org), geolocation (latitude, longitude), postal code, timezone, response_time, etc. The project demonstrates how to achieve this using PHP, but you can implement it in any language using cURL.
-[Github repository Link](https://github.com/partho5/ip-location)
+[Github repository link](https://github.com/partho5/ip-location)
 
 
 # Visualize your users on geographical map
 
 This project is to show your website/channel visitors in (Bangladesh) map. Number of visitors from all the districts will be taken from server. Then in the front end SVG map will be drawn and manupulated using Javascript. require.js and svg-path-properties.js libraries are required. Jquery, Bootstrap are also used.
-[Github repository Link](https://github.com/partho5/visitor-map)
+[Github repository link](https://github.com/partho5/visitor-map)
 
 
 # Funny sum game
 Simple number summing game, but it's funny to play. This project is one of my earliest works when I was a beginner coder. 
-[Github repository Link](https://github.com/partho5/funny-sum-game)
+[Github repository link](https://github.com/partho5/funny-sum-game)
 
 
 
