@@ -23,26 +23,47 @@ Here are some ideas to get you started:
 
 ## Let's talk about some projects
 
-## Google Drive Merge
-A web application that virtually merges multiple Gmail accounts into one, providing a seamless user experience. Utilizes Spring Boot, React.js, and PostgreSQL. Github repo link will be shared soon.
+# Google Drive Merge
 
-## Payment Verification
+A web application that virtually merges multiple Gmail accounts into one, providing a seamless user experience.
+
+### Overview
+
+If a user possesses 10 Gmail accounts, they have a total of 15 * 10 = 150 GB of free cloud storage. However, managing 10 different accounts can be overwhelming! This web application introduces a technique that virtually merges all accounts into one single account.
+
+### Features
+
+- **Account Merging:** Seamlessly merge multiple Gmail accounts into a single account.
+  
+### Usage
+
+Describe how users can use the application and any specific instructions for merging accounts.
+
+### Technologies Used
+
+- Spring Boot
+- React.js
+- PostgreSQL
+- Google API
+
+
+# Payment Verification
 A free alternative to bKash payment verification API developed in Java and Android. [Github repository Link](https://github.com/partho5/payment-verification)
 
-## Vocabulary Preparation App
+# Vocabulary Preparation App
 Feature-rich web application for processing vocabulary data. Developed in Java for Android, available on the Play Store. Paid app, no free version yet. Not much downloads. But all the downloads are paid users. I am afraid that I can't share the source code, because it's my business.
 
-## Convert any website into android app !
+# Convert any website into android app !
 This is a very simple but useful & valuable project. Any website can be converted into an android app, just by changing a variable value, the url of desired website. [Github repository Link](https://github.com/partho5/convert-any-website-into-android-app)
 
-## Boolean expression comparetor
+# Boolean expression comparetor
 Takes two boolean expression of any number of variables. Compares those, and shows weather the expressions are same or not.
 It's helpful when someone reduces a boolean expression and want to be sure that if the reduced form is correct or not. Using this application he can compare those expressions to verify. For example A+A!B+B!C+!AB!C is reduced to A+B!C . [Github repository Link](https://github.com/partho5/boolean-expression-comparetor)
 
-## Newspaper headlines crawler
+# Newspaper headlines crawler
 Collects all the headlines from Daily Star, Jugantar, Ittefaq, Kaler Kantho - these newspapers. A HTML page is created as showing in the screenshot attached below. That page is just a list of headlines. So that user can skim through all the headlines and read only desired news. Reading this way s/he can read all important news of the day from 4 newspapers in significantly less amount of time. [Github repository Link](https://github.com/partho5/newspaper-headlines-crawler)
 
-## 2D graph plotter
+# 2D graph plotter
 ### Features
 
 - **Data Persistence:** Save any dataset used for plotting, allowing for easy re-plotting without re-entering data.
@@ -64,7 +85,7 @@ Collects all the headlines from Daily Star, Jugantar, Ittefaq, Kaler Kantho - th
 
 The Yoga Practice App is designed to facilitate the practice of six crucial yoga asanas, providing users with guidance through images of each stance along with proper timing. This app aims to enhance the yoga practicing experience by incorporating structured sessions with visual cues and auditory notifications.
 
-## Features
+### Features
 
 - **Six Crucial Asanas:** The app focuses on guiding users through six fundamental yoga asanas, promoting a holistic approach to yoga practice.
 
