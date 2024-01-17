@@ -108,8 +108,27 @@ Additionally, the tool generates a truth table for any number of variables.
 [Github repository link](https://github.com/partho5/boolean-expression-comparetor)
 
 
-# Newspaper headlines crawler
-Collects all the headlines from Daily Star, Jugantar, Ittefaq, Kaler Kantho - these newspapers. A HTML page is created as showing in the screenshot attached below. That page is just a list of headlines. So that user can skim through all the headlines and read only desired news. Reading this way s/he can read all important news of the day from 4 newspapers in significantly less amount of time. [Github repository link](https://github.com/partho5/newspaper-headlines-crawler)
+# FindBook E-commerce
+
+An E-commerce platform designed for selling books. This project incorporates basic e-commerce functionality and is built using Laravel and Vue.js. Mailgun is used as the email service provider for seamless communication. Also pdf file of a book can be downloaded for free if available. All basic features of a ecommerce. Once I myself run this business.
+[Github repository link](https://github.com/partho5/findbook)
+
+# Blood Donor Database for Badhan (Dhaka University JN hall unit)
+
+A database collection for a non-profit organization managing volunteer blood donors. This project allows volunteer donors to register, add, and edit their personal information. Users can search for donors by their blood group, filtering those who donated blood more than 3 months ago.
+
+### Key Features
+
+- **Volunteer Donor Registration:** Users can register as volunteer donors, providing and managing their personal information.
+
+- **Personal Information Editing:** Donors have the ability to add and edit their personal details as needed.
+
+- **Search by Blood Group:** The system enables searching for donors based on their blood group.
+
+- **Time-Based Filtering:** Donors who have donated blood more than 3 months ago can be filtered for better organization and outreach.
+
+[Github repository link](https://github.com/partho5/blood_donors)
+
 
 # 2D graph plotter
 ### Features
@@ -125,6 +144,25 @@ Collects all the headlines from Daily Star, Jugantar, Ittefaq, Kaler Kantho - th
 - **Zoom-In and Zoom-Out:** Zoom in and out options available for both X and Y axes, providing a detailed or holistic view of the plotted data.
 
 [Github repository link](https://github.com/partho5/line-graph-plotter)
+
+
+# Facebook Fun App - Character Certificate
+
+A fun Facebook app that utilizes the Facebook Graph API to retrieve user information such as name, email, date of birth, etc. The app then employs some logic to generate random and humorous results along with the user's profile image, creating a light-hearted and entertaining experience.
+
+### How It Works
+
+1. **Facebook Graph API Integration:** The app interacts with the Facebook Graph API to fetch user details from their profile.
+
+2. **Logic and Random Results:** Employing a creative algorithm or logic, the app generates funny and random character certificate results based on the user's information.
+
+3. **Profile Image Integration:** The results are presented along with the user's profile image for a personalized touch.
+
+[Github repository link](https://github.com/partho5/facebook-fun-app-character-certificate)
+
+
+# Newspaper headlines crawler
+Collects all the headlines from Daily Star, Jugantar, Ittefaq, Kaler Kantho - these newspapers. A HTML page is created as showing in the screenshot attached below. That page is just a list of headlines. So that user can skim through all the headlines and read only desired news. Reading this way s/he can read all important news of the day from 4 newspapers in significantly less amount of time. [Github repository link](https://github.com/partho5/newspaper-headlines-crawler)
 
 
 # Yoga Practice App
