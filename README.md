@@ -1,4 +1,4 @@
-### Hi there 👋 I am Partho
+### Hi there 👋 This is Partho
 
 <!--
 **partho5/partho5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -79,9 +79,34 @@ Feature-rich web application for processing vocabulary data. Developed in Java f
 # Convert any website into android app !
 This is a very simple but useful & valuable project. Any website can be converted into an android app, just by changing a variable value, the url of desired website. [Github repository Link](https://github.com/partho5/convert-any-website-into-android-app)
 
-# Boolean expression comparetor
-Takes two boolean expression of any number of variables. Compares those, and shows weather the expressions are same or not.
-It's helpful when someone reduces a boolean expression and want to be sure that if the reduced form is correct or not. Using this application he can compare those expressions to verify. For example A+A!B+B!C+!AB!C is reduced to A+B!C . [Github repository Link](https://github.com/partho5/boolean-expression-comparetor)
+Copy code
+# Boolean Expression Comparator
+
+Takes two boolean expressions of any number of variables, compares them, and indicates whether the expressions are the same or not. This tool is useful when verifying the reduction of boolean expressions. Users can compare expressions to ensure the correctness of the reduced form.
+
+### Overview
+
+For example, if the original expression is A + A!B + B!C + !AB!C and it is reduced to A + B!C, the tool can be used to verify the reduction. If someone ends up with an incorrect solution like A + B!CA, the output will indicate the disparity.
+
+Additionally, the tool generates a truth table for any number of variables.
+
+### How It Works
+
+1. **Expression Comparison:** Compares two boolean expressions to determine if they are the same or different.
+
+2. **Verification Output:** Provides clear output indicating the result of the expression comparison, helping users identify errors in their reductions.
+
+3. **Truth Table Generation:** Generates a truth table for any number of variables in the boolean expressions.
+
+### Usage
+
+1. Enter the two boolean expressions for comparison.
+
+2. Click on the compare button to initiate the comparison process.
+
+3. Review the output to verify the correctness of the reduction.
+[Github repository Link](https://github.com/partho5/boolean-expression-comparetor)
+
 
 # Newspaper headlines crawler
 Collects all the headlines from Daily Star, Jugantar, Ittefaq, Kaler Kantho - these newspapers. A HTML page is created as showing in the screenshot attached below. That page is just a list of headlines. So that user can skim through all the headlines and read only desired news. Reading this way s/he can read all important news of the day from 4 newspapers in significantly less amount of time. [Github repository Link](https://github.com/partho5/newspaper-headlines-crawler)
