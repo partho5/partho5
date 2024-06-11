@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 - 💼 Software Engineer
 - 🎓 Electrical and Electronic Engineering, University of Dhaka
-- 🧰 Pro skill: Java · Spring Boot · ReactJS · MySQL · PostgreSQL · Firebase · PHP · Laravel · HTML, CSS, Bootstrap · Javascript, jQuery · Android · API development & Integration
-- 🔨 Also worked with: NoSQL · AWS · Linux · Apache, NGINX Server · C# · Python · IOT · Arduino · NodeMCU
+- 🧰 Pro skill: React.js · Next.js · Typescript · Node.js · MySQL · PostgreSQL · NoSQL · AWS · Firebase · PHP · Laravel · HTML, CSS, Bootstrap · Tailwind · jQuery · Android · API development & Integration
+- 🔨 Also worked with: Java · Spring Boot · Linux · Apache, NGINX · C# · Python · IOT · Arduino · NodeMCU
 
 
 ## Let's talk about some of my projects
