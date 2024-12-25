@@ -25,6 +25,43 @@ Here are some ideas to get you started:
 
 ## Let's talk about some of my projects
 
+# YouTube Video to Article Writer
+
+A powerful AI-driven tool that transforms YouTube videos into SEO-optimized, long-form articles with featured images in just one click.
+
+### Overview
+
+This software streamlines content creation for businesses, agencies, and creators by generating high-quality, engaging, and thought-provoking articles directly from YouTube transcripts. It also produces stunning featured images and metadata to maximize SEO performance.
+
+### Features
+
+- **Input Simplification:** Input only a YouTube URL to generate content.
+- **AI-Powered Prompt Engineering:** Utilizes advanced prompts to extract insights and produce high-quality articles.
+- **SEO Optimization:** Ensures green scores for SEO, readability, and inclusivity.
+- **Dynamic Article Expansion:** Recursive AI-driven enrichment for long-form content.
+- **AI-Generated Images:** Creates visually appealing featured images tailored to the topic.
+- **External Link Integration:** Adds authoritative external links using Google Custom Search Engine (CSE).
+- **Publishing Workflow:** Direct upload to WordPress with SEO metadata.
+- **Cloud Storage:** Scalable image storage using AWS S3.
+
+### Technologies Used
+
+- Next.js
+- Typescript
+- AWS Lambda
+- DynamoDB
+- Python
+- Express.js
+- Socket.io
+- WordPress REST API
+
+### Business Impact
+
+- **Time-Saving:** Completes tasks in 1 minute that typically require 7-8 hours.
+- **Cost-Efficient:** Reduces reliance on manual content creation.
+- **Scalable:** Designed for bulk content generation and publishing.
+
+
 # Google Drive Merge
 
 A web application that virtually merges multiple google drive accounts into one, providing a seamless user experience.
