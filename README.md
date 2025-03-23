@@ -25,24 +25,21 @@ Here are some ideas to get you started:
 
 ## Let's talk about some of my projects
 
-# YouTube Video to Article Writer
+# SEO Article Writer
 
-A powerful AI-driven tool that transforms YouTube videos into SEO-optimized, long-form articles with featured images in just one click.
+An advanced AI tool that can  **mimic Human-Writing style** in a degree that you can't tell the difference. generates **SEO-friendly, long-form articles** with **featured image** and **in-article images**—instantly. It performs complete On-page SEO along with the article.  It writes all the articles complying **Google's E-E-A-T** guideline.
 
-### Overview
+### Features  
 
-This software streamlines content creation for businesses, agencies, and creators by generating high-quality, engaging, and thought-provoking articles directly from YouTube transcripts. It also produces stunning featured images and metadata to maximize SEO performance.
-
-### Features
-
-- **Input Simplification:** Input only a YouTube URL to generate content.
-- **AI-Powered Prompt Engineering:** Utilizes advanced prompts to extract insights and produce high-quality articles.
-- **SEO Optimization:** Ensures green scores for SEO, readability, and inclusivity.
-- **Dynamic Article Expansion:** Recursive AI-driven enrichment for long-form content.
-- **AI-Generated Images:** Creates visually appealing featured images tailored to the topic.
-- **External Link Integration:** Adds authoritative external links using Google Custom Search Engine (CSE).
-- **Publishing Workflow:** Direct upload to WordPress with SEO metadata.
-- **Cloud Storage:** Scalable image storage using AWS S3.
+- **Simple Input:** Just enter a **keyword** to create a full article.  
+- **AI-Optimized Writing:** Uses smart prompts to ensure **quality and relevance**.  
+- **SEO-Ready Content:** Achieves top **SEO and readability scores**.  
+- **Extended Content Generation:** Expands articles **dynamically** using AI.  
+- **Auto-Generated Images:** Creates **featured and contextual images**.  
+- **External Link Automation:** Adds **relevant authority links** via Google CSE.  
+- **Internal Linking:** Automatically Adds internal links in article if match found in your wordpress blog.  
+- **One-Click Publishing:** Direct posting to **WordPress with metadata**.  
+- **Cloud Storage:** Secure image hosting with **AWS S3 integration**.
 
 ### Technologies Used
 
