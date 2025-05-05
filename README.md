@@ -59,6 +59,43 @@ An advanced AI tool that can  **mimic Human-Writing style** in a degree that you
 - **Scalable:** Designed for bulk content generation and publishing.
 
 
+# Crypto News → X Poster
+
+CryptoXPoster is an automated Python tool that **scrapes the latest cryptocurrency news** from websites and **posts updates directly to X (formerly Twitter)** few times an hour. It ensures timely and relevant crypto news sharing with minimal manual effort.
+
+### Features
+
+- **Automated News Scraping:** Uses BeautifulSoup to extract the most recent crypto news.  
+- **Secure API Access:** FastAPI endpoint with URL parameter authentication to prevent unauthorized use.  
+- **Seamless Posting:** Automatically posts top news entries to X via the official API.  
+- **JSON-Based Queue:** Maintains a JSON file as a queue for news items to be posted, ensuring ordered processing.  
+- **Modular & Reusable:** Designed with clean, modular code adhering to the Single Responsibility Principle.  
+- **Robust Error Handling:** Implements comprehensive try-except blocks for reliable operation.  
+- **Environment Configuration:** Uses environment variables for sensitive data like API keys and auth codes.
+
+### Tech Info
+
+- Python  
+- FastAPI  
+- BeautifulSoup4  
+- X API v2 (Twitter API)  
+- JSON  
+- Environment Variables (.env)
+- Cron Job
+
+### Business Impact
+
+- **Fully Autonomous:** Creates a complete, hands-free social media presence on X.com by automatically posting the latest crypto news.  
+- **Audience Engagement:** Reaches and informs a targeted audience interested in cryptocurrency in real-time.  
+- **Time-Saving:** Eliminates manual effort in curating and posting crypto updates, freeing up valuable time.  
+- **Consistent Posting:** Ensures regular and timely content delivery, boosting follower engagement and retention.  
+- **Cost-Effective:** Reduces the need for dedicated social media managers or content creators.  
+- **Scalable:** Easily adaptable to include more news sources or other social platforms in the future.  
+- **Reliable & Secure:** Uses authentication and robust error handling to maintain secure and uninterrupted operation.
+
+
+
+
 # Google Drive Merge
 
 A web application that virtually merges multiple google drive accounts into one, providing a seamless user experience.
