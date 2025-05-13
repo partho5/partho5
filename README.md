@@ -77,6 +77,40 @@ The Tweeter Auto Posting Bot eliminates the need for costly Twitter API plans (u
 
 
 
+# 🔗 URL shortener for Affiliate Marketing
+
+## 🧠 Overview
+A custom short URL generation tool built to streamline the sharing of long-form article links, specifically designed for SEO and affiliate marketing workflows. This project addresses the need for cleaner, more manageable URLs for campaigns across social media, email, and blog platforms.
+
+---
+
+## 💡 Problem Statement
+Long URLs from CMS or AI-generated article platforms often contain unnecessary parameters and poor readability. These links:
+- Reduce trust and click-through rates (CTR)
+- Are hard to manage in bulk
+- Offer limited flexibility for campaign tracking
+
+---
+
+## 🛠️ Solution
+I built a lightweight, domain-restricted **Short Link Generator** that allows users to:
+- Convert long URLs into short, trackable links
+- Handle affiliate parameters safely
+- Auto-tag internal links for better analytics
+- Share links without relying on third-party services like Bitly
+
+---
+
+## 🔍 Features
+- ✅ **Short URL Generation**: Clean, simple links for any long-form URL  
+- 🔐 **Domain Restriction**: Only allows shortening links from approved domains  
+- 📊 **Affiliate-Ready**: Preserves UTM and referral tags for campaign tracking  
+- 🧩 **Simple UI**: One-click link creation for non-technical users  
+- 🛡️ **Privacy-Safe**: No external API calls—self-hosted logic  
+- ⏱️ **Fast Performance**: Lightweight backend with real-time redirects
+
+
+
 # Crypto News → X Poster | Twitter API
 
 CryptoXPoster is an automated Python tool that **scrapes the latest cryptocurrency news** from websites and **posts updates directly to X (formerly Twitter)** few times an hour. It ensures timely and relevant crypto news sharing with minimal manual effort.
