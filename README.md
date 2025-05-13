@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## Let's talk about some of my projects
 
-# SEO Article Writer
+# SEO Article Writer - OpenAI, AI Agent
 
 An advanced AI tool that can  **mimic Human-Writing style** in a degree that you can't tell the difference. generates **SEO-friendly, long-form articles** with **featured image** and **in-article images**—instantly. It performs complete On-page SEO along with the article.  It writes all the articles complying **Google's E-E-A-T** guideline.
 
@@ -59,7 +59,25 @@ An advanced AI tool that can  **mimic Human-Writing style** in a degree that you
 - **Scalable:** Designed for bulk content generation and publishing.
 
 
-# Crypto News → X Poster
+# Tweeter Auto Posting Bot - Browser Automation, Chrome Extension
+
+A lightweight Chrome extension for automated tweeting without the need for the Twitter API, designed to emulate normal user behavior to avoid bot detection.
+
+## About
+
+The Tweeter Auto Posting Bot eliminates the need for costly Twitter API plans (up to $5000/month). Instead, it utilizes a browser-based approach to emulate user interactions, making it a cost-effective solution for automated tweeting.
+
+## Features
+
+- **Random Time Gaps**: Posts are made with a random delay (1 to 20 seconds) between them to minimize the risk of detection as a bot.
+- **Quota Tracking**: The bot tracks Twitter's posting quotas (300 tweets every 3 hours and a maximum of 2400 tweets per day) and automatically pauses after every 3-hour cycle.
+- **Content Management**: Save a list of text; the bot will post each line sequentially.
+- **Content Variation**: To avoid posting identical content, the bot adds random characters (e.g., 🙂 👍 ⚡ ✅) to the posts without changing their meaning.
+- **Detailed Logging**: Provides log messages to show the current activity of the bot.
+
+
+
+# Crypto News → X Poster | Twitter API
 
 CryptoXPoster is an automated Python tool that **scrapes the latest cryptocurrency news** from websites and **posts updates directly to X (formerly Twitter)** few times an hour. It ensures timely and relevant crypto news sharing with minimal manual effort.
 
