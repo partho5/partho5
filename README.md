@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am a passionate Software Engineer
 
 <!--
 **partho5/partho5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 
 
-- 💼 Software Engineer
 - 🧰 Pro skill: React.js · Next.js · Typescript · Node.js · Express.js · PHP · Laravel · MySQL · NoSQL · PostgreSQL · DynamoDB · AWS(EC2, S3, Lambda, DynamoDB etc.) · Firebase · HTML, CSS, Bootstrap · Tailwind · jQuery · Android · API development & Integration · Chrome Extension
 - 🔨 Also worked with: Java · Spring Boot · Linux · Apache, NGINX · C# · Python · Flask · IOT · Arduino · NodeMCU
 
