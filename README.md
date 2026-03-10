@@ -1,4 +1,4 @@
-### Hi there,
+### Hi there, I am Full-stack Devloper and AI Engineer who works at System Level
 
 I am a 𝘀𝗲𝗹𝗳-𝗱𝗶𝗿𝗲𝗰𝘁𝗲𝗱, 𝗽𝗿𝗼𝗱𝘂𝗰𝘁-𝗱𝗿𝗶𝘃𝗲𝗻 𝗯𝘂𝗶𝗹𝗱𝗲𝗿 who owns the projects end to end → from idea to delivery, no handholding required.<br>
 I 𝘀𝗽𝗼𝘁 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀 𝗲𝗮𝗿𝗹𝘆, fill gaps before they're asked. I think in 𝘃𝗮𝗹𝘂𝗲, 𝗻𝗼𝘁 𝗷𝘂𝘀𝘁 𝗰𝗼𝗱𝗲 : connecting user pain, business goals, and technical execution.
@@ -22,9 +22,12 @@ Here are some ideas to get you started:
 
 
 
-- 🧰 Pro skill: React.js · Next.js · Typescript · Node.js · Express.js · PHP · Laravel · MySQL · NoSQL · PostgreSQL · DynamoDB · AWS(EC2, S3, Lambda, DynamoDB etc.) · Firebase · HTML, CSS, Bootstrap · Tailwind · jQuery · Android · API development & Integration · Chrome Extension
-- 🔨 Also worked with: Java · Spring Boot · Linux · Apache, NGINX · C# · Python · Flask · IOT · Arduino · NodeMCU
-
+- Dev skills: React.js · Next.js · Typescript · Node.js · Express.js · PHP · Laravel · MySQL · NoSQL · PostgreSQL · DynamoDB · AWS(EC2, S3, Lambda, DynamoDB etc.) · Firebase · HTML, CSS, Bootstrap · Tailwind · Python · FastAPI · Android · API development & Integration · Chrome Extension
+   
+- AI Skills: Claude API · OpenAI API · Grok (xAI) · LangChain · AI Agents & Automation · Prompt Engineering · LLM Integration · RAG (Retrieval-Augmented Generation) · MCP (Model Context Protocol) · AI-powered content pipelines
+  
+-  Also worked with: Java · Spring Boot · Linux · Apache, NGINX · C# · Flask · IOT · Arduino · NodeMCU
+<br>
 
 ## Let's talk about some of my projects
 
