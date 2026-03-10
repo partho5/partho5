@@ -56,6 +56,143 @@ An advanced AI tool that can  **mimic Human-Writing style** in a degree that you
 - **Cost-Efficient:** Reduces reliance on manual content creation.
 - **Scalable:** Designed for bulk content generation and publishing.
 
+---
+
+
+# AI Hardware Diagnostics Software - RAG & Computer Vision
+
+An advanced AI orchestration layer designed to serve as the "intelligence engine" for a specialized maintenance and diagnostics mobile ecosystem. It bridges high-level user symptoms with technical precision by enriching raw data with historical context, asset specifications, and real-time visual analysis.
+
+### Features
+
+* **Context-Aware Enrichment:** Dynamically injects asset service history, available toolsets, and specific model metadata into AI prompts to eliminate generic advice.
+* **Multi-Modal Diagnostics:** Integrates Gemini Vision to analyze photos of mechanical components, extracting structured findings like part condition and damage severity.
+* **Intelligent RAG (Retrieval-Augmented Generation):** Utilizes a vectorized document system (ChromaDB) to ground AI responses in specific technical manuals and PDFs, filtered strictly by asset ID to prevent data leakage.
+* **Automated Confidence Scoring:** Implements a multi-factor scoring algorithm (Symptom Match, History Alignment, Specificity) that triggers self-critique loops if reliability falls below a 50% threshold.
+* **Dynamic Persona Mapping:** A 5-level "Temperature Slider" that transforms response complexity from "Simple/Non-Technical" to "Expert/Professional" terminology based on user preference.
+* **Dual-Pass Validation:** Low-confidence diagnoses automatically trigger an AI self-reflection cycle to check for hallucinations and missed variables before returning results.
+
+### Technologies Used
+
+* FastAPI (Python)
+* Grok API (X.AI)
+* Gemini Vision API
+* ChromaDB (Vector Storage)
+* LangChain (Document Processing)
+* OpenAI Embeddings
+* Pydantic (Data Validation)
+
+### Business Impact
+
+* **Increased Reliability:** Reduces AI hallucinations by grounding responses in verified technical documents and specific asset history.
+* **Safety-First Architecture:** Automatically flags high-risk repairs (electrical, fuel, structural) to prioritize user safety and liability management.
+* **Operational Efficiency:** Offloads complex AI logic from the primary backend, creating a clean separation between data storage and cognitive processing.
+* **Scalable Expertise:** Allows a standard mobile app to function as a "mechanic in your pocket," providing expert-level guidance instantly without manual oversight.
+
+---
+
+
+# Glass Installation Workflow System – ERP & Field Service Automation
+
+A production-ready enterprise resource planning (ERP) and field operations platform specifically engineered for glass installation businesses. This system digitizes the entire lifecycle of a project—from automated pricing and inventory checks to mobile-first field execution and automated billing.
+
+### Features
+
+* **Automated Pricing Engine:** Implements a sophisticated 3-way match logic (Client + Truck Model + Glass Position) to generate real-time price previews and instant inventory status via Notion.
+* **Dynamic Order Workflow:** Manages project lifecycles through a specialized status pipeline (Pending → In Stock → Scheduled → Completed → Invoiced).
+* **Mobile Field Wizard:** A specialized dashboard for technicians featuring step-by-step job execution, GPS-verified timestamps, and touch-supported digital signature collection.
+* **Evidence-Based Documentation:** Integrated photo capture system requiring 3 "before" and 1 "after" photo, with real-time progress saving and secure Cloudinary storage.
+* **Automated Billing Pipeline:** Generates professional PDF invoices using React components and automates delivery via the WhatsApp Business API (Twilio).
+* **Multi-Tenant & Multilingual:** Full internationalization (Spanish/English) support with secure user authentication and role-based access control.
+
+### Technologies Used
+
+* Next.js 16 (App Router)
+* TypeScript
+* Notion API v5 (Database)
+* Clerk (Authentication)
+* Cloudinary (Media & PDF Hosting)
+* Twilio (WhatsApp Business API)
+* Tailwind CSS 4
+* @react-pdf/renderer
+
+### Business Impact
+
+* **Operational Accuracy:** Eliminates pricing errors by automating complex calculations that previously relied on manual lookups.
+* **Field Accountability:** Ensures service quality and proof-of-work through mandatory photo evidence and GPS-stamped job completion.
+* **Accelerated Cash Flow:** Reduces the billing cycle from days to seconds with bulk invoice generation and instant WhatsApp delivery.
+* **Zero Infrastructure Overhead:** Leverages Notion as a headless CMS/Database, drastically reducing backend maintenance costs and providing an intuitive interface for non-technical admins.
+
+---
+
+
+# Automated Facebook Brand Growth Bot
+
+A fully autonomous content engine that manages an English-to-Bengali vocabulary page. The system handles the entire creative pipeline—from linguistic storytelling and image generation to automated publishing—ensuring a consistent social media presence with zero manual intervention.
+
+### Features
+
+* **Contextual Storytelling:** Uses GPT-4o / Claude to draft natural Bengali narratives featuring a recurring character, "Toma," weaving target IELTS/GRE words into relatable contexts.
+* **Dynamic Image Compositing:** Automatically generates scene-specific artwork via Replicate (SDXL) and composites it onto a custom 1080×1350 canvas with branded headers and labels.
+* **Cross-Platform Formatting:** Converts standard Markdown bolding into Unicode Mathematical Bold ($𝐰𝐨𝐫𝐝$), ensuring key vocabulary stands out on Facebook despite the platform's lack of native Markdown support.
+* **Self-Healing Token Management:** Features an automated OAuth flow that converts short-lived access tokens into permanent Page tokens, eliminating the need for manual re-authentication.
+* **Smart Scheduling & Persistance:** Powered by APScheduler to post at high-traffic intervals (08:00, 12:00, 18:00, 20:00) while maintaining a persistent state of the word list across system restarts.
+* **Automated Field Execution:** Includes a "Single-Command Deploy" script and a FastAPI webhook for manual overrides or external triggers.
+
+### Technologies Used
+
+* Python (FastAPI)
+* OpenAI GPT-4o / Anthropic Claude
+* Replicate (SDXL-Lightning)
+* Pillow (PIL) for Image Processing
+* Facebook Graph API
+* APScheduler
+* Bash Scripting
+
+### Business Impact
+
+* **Zero Manual Input:** Replaces the need for a full-time content creator and graphic designer, managing 4–5 high-quality posts per day automatically.
+* **Rapid Deployment:** Entire automation architecture built and deployed in under 8 hours.
+* **Consistent Engagement:** Maintains a strict posting schedule that optimizes for the Asia/Dhaka timezone, driving steady follower growth and brand authority in the Ed-Tech space.
+* **Scalable Education:** Easily adaptable to other languages or niche subjects by simply swapping the prompt engineering and word lists.
+
+---
+
+
+# Trading Data Hub – Financial API & Data Aggregator
+
+A high-performance financial data ecosystem built with FastAPI, designed to aggregate real-time market insights from multiple premium sources into a single, unified API. It features a robust asynchronous architecture, secure multi-tier authentication, and a plugin-based system for seamless data source expansion.
+
+### Features
+
+* **Unified Data Aggregator:** A specialized plugin architecture that fetches and normalizes data from Yahoo Finance, Finviz, Alpha Vantage, and Benzinga via a single endpoint.
+* **Advanced Market Insights:** Access to real-time quotes, historical OHLCV charts, pre/post-market data, analyst ratings, and insider trading activity.
+* **Smart Caching Layer:** Integrated Redis caching with configurable TTL (Time-To-Live) to minimize API latency and reduce external service costs.
+* **Enterprise Auth & Security:** Implements JWT-based authentication with 60-minute access tokens and persistent refresh tokens, including role-based access for Administrative and Superuser tiers.
+* **Automated Data Ops:** Built on `FastCRUD` and SQLAlchemy for rapid, typed database interactions with built-in support for Soft Deletes, Pagination, and UUID primary keys.
+* **Production-Ready Deployment:** Full support for containerized deployment via Docker Compose or high-performance VPS setup using Systemd and Nginx reverse proxying.
+
+### Technologies Used
+
+* FastAPI (Python 3.12+)
+* Neon (Serverless PostgreSQL)
+* Redis (Caching & Task Management)
+* SQLAlchemy & Alembic (Migrations)
+* Docker & Docker Compose
+* Pydantic (Data Validation)
+* uv (Next-gen Python Package Manager)
+
+### Business Impact
+
+* **Consolidated Intelligence:** Replaces multiple expensive financial subscriptions with a single, custom-tailored API hub.
+* **Performance at Scale:** Asynchronous design ensures the system can handle concurrent market data requests without blocking, critical for high-frequency trading dashboards.
+* **Developer Productivity:** Drastically reduces feature development time through a standardized "Model-Schema-CRUD-Router" workflow.
+* **Market Edge:** Provides specialized market indicators like the VIX Fear Index, unusual volume alerts, and economic calendars to drive informed trading decisions.
+
+---
+
+
+
 
 # Tweeter Auto Posting Bot - Browser Automation, Chrome Extension
 
