@@ -1,4 +1,9 @@
-### Hi there, I am a passionate Software Engineer
+### Hi there,
+
+I'm a 𝘀𝗲𝗹𝗳-𝗱𝗶𝗿𝗲𝗰𝘁𝗲𝗱, 𝗽𝗿𝗼𝗱𝘂𝗰𝘁-𝗱𝗿𝗶𝘃𝗲𝗻 𝗯𝘂𝗶𝗹𝗱𝗲𝗿 who owns the projects end to end → from idea to delivery, no handholding required.<br>
+I 𝘀𝗽𝗼𝘁 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀 𝗲𝗮𝗿𝗹𝘆, fill gaps before they're asked. I think in 𝘃𝗮𝗹𝘂𝗲, 𝗻𝗼𝘁 𝗷𝘂𝘀𝘁 𝗰𝗼𝗱𝗲 : connecting user pain, business goals, and technical execution.
+
+<br>
 
 <!--
 **partho5/partho5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
